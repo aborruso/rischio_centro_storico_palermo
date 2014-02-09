@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>centro_storico_o.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:900913</SRS>
+      <BoundingBox minx="38.10518426572502" miny="13.34620435849782" maxx="38.12608016229212" maxy="13.37635898298173"/>
+      <Origin x="38.10518426572502" y="13.34620435849782"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="http://aborruso.github.io/rischio_centro_storico_palermo/13" units-per-pixel="19.10925706787109" order="13"/>
+        <TileSet href="http://aborruso.github.io/rischio_centro_storico_palermo/14" units-per-pixel="9.55462853393555" order="14"/>
+        <TileSet href="http://aborruso.github.io/rischio_centro_storico_palermo/15" units-per-pixel="4.77731426696777" order="15"/>
+        <TileSet href="http://aborruso.github.io/rischio_centro_storico_palermo/16" units-per-pixel="2.38865713348389" order="16"/>
+        <TileSet href="http://aborruso.github.io/rischio_centro_storico_palermo/17" units-per-pixel="1.19432856674194" order="17"/>
+      </TileSets>
+    </TileMap>
+    

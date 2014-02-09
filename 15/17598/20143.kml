@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <name>15/17598/20143.kml</name>
+        <description></description>
+        <Style>
+          <ListStyle id="hideChildren">
+            <listItemType>checkHideChildren</listItemType>
+          </ListStyle>
+        </Style>
+        <Region>
+          <LatLonAltBox>
+            <north>38.13455657705413</north>
+            <south>38.12591462924154</south>
+            <east>13.34838867187501</east>
+            <west>13.33740234374999</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>128</minLodPixels>
+            <maxLodPixels>2048</maxLodPixels>
+          </Lod>
+        </Region>
+        <GroundOverlay>
+          <drawOrder>30</drawOrder>
+          <Icon>
+            <href>20143.png</href>
+          </Icon>
+          <LatLonBox>
+            <north>38.13455657705413</north>
+            <south>38.12591462924154</south>
+            <east>13.34838867187501</east>
+            <west>13.33740234374999</west>
+          </LatLonBox>
+        </GroundOverlay>
+    
+        <NetworkLink>
+          <name>16/35197/40286.png</name>
+          <Region>
+            <LatLonAltBox>
+              <north>38.13023573104302</north>
+              <south>38.12591462924154</south>
+              <east>13.34838867187501</east>
+              <west>13.34289550781251</west>
+            </LatLonAltBox>
+            <Lod>
+              <minLodPixels>128</minLodPixels>
+              <maxLodPixels>-1</maxLodPixels>
+            </Lod>
+          </Region>
+          <Link>
+            <href>http://aborruso.github.io/rischio_centro_storico_palermo/16/35197/40286.kml</href>
+            <viewRefreshMode>onRegion</viewRefreshMode>
+            <viewFormat/>
+          </Link>
+        </NetworkLink>
+          </Document>
+    </kml>
+    
